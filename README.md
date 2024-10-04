@@ -9,3 +9,7 @@ O estudo analisa a comunicação entre autoridades governamentais e cidadãos na
 
 Foram coletados uma série de dados tirados da API do aplicativo e rede-social X (antigo Twitter) por meio do código 
 disponível na plataforma do github. Link: https://github.com/geduldig/TwitterAPI
+
+# Utilidades e Meios usados para inserções 
+
+Utilizamos do seguinte repositório para replicar o plotar o gráfico replicado https://github.com/tidyverse/ggplot2

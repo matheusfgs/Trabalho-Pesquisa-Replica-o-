@@ -1,4 +1,4 @@
-# Trabalho-Pesquisa-Replica-o-
+# Trabalho De Introdução a Pesquisa: Replicação e construção do Mini-Artigo
 Trabalho da disciplina de Introdução a pesquisa que se baseia na construção de um mini-artigo referente a uma Replicação de um trabalho desenvolvido pelo tutor.
 
 # Artigo-base da replicação e análise replicada

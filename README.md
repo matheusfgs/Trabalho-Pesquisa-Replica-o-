@@ -3,9 +3,9 @@ Trabalho da disciplina de Introdução a pesquisa que se baseia na construção 
 
 # Integrantes:
 
-João Pedro Moura,
-Matheus Fuscaldi,
-Miguel Araújo.
+João Pedro Moura Santos,
+Matheus Fuscaldi Gomes Santos,
+Miguel Amaral Lessa Xavier.
 
 # Artigo-base da replicação e análise replicada
 

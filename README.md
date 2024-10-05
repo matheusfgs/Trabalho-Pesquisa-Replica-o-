@@ -23,6 +23,6 @@ Foi utilizado do seguinte repositório para replicar o plotar o gráfico replica
 # Tecnologia utilizada para a construção do Mini-artigo de Replicação:
 
 .Overleaf: https://pt.overleaf.com/
-LaTeX (sistema de preparação de documentos)
+                                                                                                                       LaTeX (sistema de preparação de documentos)
 
 # Link do Mini-Artigo:

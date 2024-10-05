@@ -22,7 +22,11 @@ disponível na plataforma do github. Link: https://github.com/geduldig/TwitterAP
 
 # Utilidades e Meios usados para inserções:
 
-Foi utilizado do seguinte repositório para replicar o plotar o gráfico replicado https://github.com/tidyverse/ggplot2
+1 Foi utilizado do seguinte repositório para replicar o plotar o gráfico replicado https://github.com/tidyverse/ggplot2
+
+2 Para conduzir a análise e modelagem de dados, as seguintes ferramentas foram usadas: Scikit-Learn versão 1.2.2 ( https://github.com/scikit-learn/scikit-learn ) 
+
+3 SciPy versão 1.8.0 ( https://github.com/scipy/scipy ) na análise de clustering;
 
 # Tecnologia utilizada para a construção do Mini-artigo de Replicação:
 

@@ -1,4 +1,4 @@
-# Trabalho De Introdução a Pesquisa: Replicação e construção do Mini-Artigo
+# Trabalho de Introdução a Pesquisa: Replicação e construção do Mini-Artigo
 Trabalho da disciplina de Introdução a pesquisa que se baseia na construção de um mini-artigo referente a uma Replicação de um trabalho desenvolvido pelo tutor.
 
 # Integrantes:
@@ -15,12 +15,12 @@ O estudo analisa a comunicação entre autoridades governamentais e cidadãos na
 
 https://www.nature.com/articles/s44168-023-00080-3#Fig7
 
-# Dados usados coletados e gerados no projeto original e na replicação
+# Dados usados coletados e gerados no projeto original e na replicação:
 
 Foram coletados uma série de dados tirados da API do aplicativo e rede-social X (antigo Twitter) por meio do código 
 disponível na plataforma do github. Link: https://github.com/geduldig/TwitterAPI
 
-# Utilidades e Meios usados para inserções 
+# Utilidades e Meios usados para inserções:
 
 Foi utilizado do seguinte repositório para replicar o plotar o gráfico replicado https://github.com/tidyverse/ggplot2
 

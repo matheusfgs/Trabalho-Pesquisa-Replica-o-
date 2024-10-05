@@ -19,3 +19,10 @@ disponível na plataforma do github. Link: https://github.com/geduldig/TwitterAP
 # Utilidades e Meios usados para inserções 
 
 Utilizamos do seguinte repositório para replicar o plotar o gráfico replicado https://github.com/tidyverse/ggplot2
+
+# Tecnologia utilizada para a construção do Mini-artigo de Replicação:
+
+.Overleaf: https://pt.overleaf.com/
+LaTeX (sistema de preparação de documentos)
+
+# Link do Mini-Artigo:
